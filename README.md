@@ -14,7 +14,7 @@ This page is still in an early stage. Feedback is highly appreciated! If you hav
 ### **Download**
 download the **memo_1.0.XX.tar.gz** file
 
-### **UnZip Ubuntu**
+### **UnZip**
 `tar -xvf memo_1.0.XX.tar.gz`
 
 ### **Installation**
