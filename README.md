@@ -18,6 +18,9 @@ download the **memo_1.0.XX.tar.gz** file
 ### **Download for Mac**
 download the **memo_1.0.XX.mac.tar.gz** file
 (anywhere you want...people generally use folder  **~/Download**)
+you probably get this alert 
+`open “memo” can’t be opened because Apple cannot check it for malicious software.`
+Allow it by opening System Preferences/Security&Privacy
 
 ### **UnZip Ubuntu**
 `tar -xvf memo_1.0.XX.tar.gz`
