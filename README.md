@@ -15,16 +15,17 @@ This page is still in an early stage. Feedback is highly appreciated! If you hav
 download the **memo_1.0.XX.tar.gz** file
 
 ### **UnZip**
-`Open when done`
-
-or
-
 `tar -xvf memo_1.0.XX.tar.gz`
 
-### **Installation**
+### **Installation Ubuntu**
 1. `cd  memo_1.0.XX`
 2. `. remove_memo.sh `(remove previous version)
 3. `. install_memo.sh`
+
+### **Installation Mac**
+1. `cd  memo_1.0.XX`
+2. `sh remove_memo.sh `(remove previous version)
+3. `sh install_memo.sh`
 
 ### **Setup**
 During installation you will get this question
