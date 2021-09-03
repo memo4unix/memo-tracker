@@ -11,14 +11,13 @@ This page is still in an early stage. Feedback is highly appreciated! If you hav
 - A powerful python history tool using google sheet...
 - btw, no need root permission to install this tool..
 
-### **Download for Ubuntu**
+### **Download **
 download the **memo_1.0.XX.tar.gz** file
 (anywhere you want...people generally use folder  **~/Download**)
 
 ### **Download for Mac**
-download the **memo_1.0.XX.mac.tar.gz** file
-Allow it by opening System Preferences/Security&Privacy if you get this message
-`open “memo” can’t be opened because Apple cannot check it for malicious software.`
+if you get this message `open “memo” can’t be opened because Apple cannot check it for malicious software.`
+Allow **memo** by opening System Preferences/Security&Privacy 
 
 
 ### **UnZip Ubuntu**
