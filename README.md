@@ -15,6 +15,10 @@ This page is still in an early stage. Feedback is highly appreciated! If you hav
 download the **memo_1.0.XX.tar.gz** file
 
 ### **UnZip**
+`Open when done`
+
+or
+
 `tar -xvf memo_1.0.XX.tar.gz`
 
 ### **Installation**
