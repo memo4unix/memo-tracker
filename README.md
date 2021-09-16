@@ -40,9 +40,10 @@ During installation you will get this question
 
 ### **Usage**
 
-- `memo` will display all history from all your console terminals
-- `memo [pattern]` will display all your history containing this pattern, for example `memo ls`
+- `memo` will display all events from all your console terminals
+- `memo [pattern]` will display all events containing this pattern, for example `memo ls`
 - `memo [n]` will execute the index command line - Refer to command line n, for example `memo 5`
 - `memo [pattern] [-e email]` will display history of your colleague identified by email, for example `memo ls -e scott.tiger@cisco.com` will display all command lines of **scott** which contains the pattern `ls`
+- `memo [*n]` will search all command lines containing string n, for example `memo *38` will search all events containing string 38
 
 
