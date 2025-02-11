@@ -6,7 +6,7 @@ Issues are prioritised by the number of votes they receive. You can vote using [
 
 This page is still in an early stage. Feedback is highly appreciated! If you have ideas or suggestions for improvements, please [open an issue](https://github.com/memo4unix/memo-tracker/issues/new).
 
-memo4unix.com
+www.memo4unix.com
 
 # memo
 - **MEMO**rize all your ubuntu/mac command lines and share them with colleagues.
